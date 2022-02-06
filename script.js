@@ -11,7 +11,6 @@ for(let i=13; i<=91; i++){
     <br>
     <code>1285${i}</code>
   </p></div>`)
-  
 }
 
 
